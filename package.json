@@ -1,0 +1,30 @@
+{
+  "name": "weather-app",
+  "version": "0.0.0",
+  "description": "weather website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gFelicio/weather.git"
+  },
+  "keywords": [
+    "weather",
+    "app",
+    "website"
+  ],
+  "author": "Gustavo Felicio after codeburst.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gFelicio/weather/issues"
+  },
+  "homepage": "https://github.com/gFelicio/weather#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
